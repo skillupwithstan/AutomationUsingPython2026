@@ -1,4 +1,3 @@
-'''
 #Escaping Characters
 
 out = "This is a \"Test Server\""
@@ -127,7 +126,6 @@ print(fruit_new)
 #List to String
 x = " ".join(["This", "is", "Awesome"])  #"This" + "-" + "is" + "-" + "Awesome"
 print(x)
-'''
 ######################################################
 #Exercise - 1:
 
