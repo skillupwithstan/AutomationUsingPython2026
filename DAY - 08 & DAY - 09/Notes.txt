@@ -1,0 +1,52 @@
+Day - 8
+-------
+Collections:
+
+MUTABLE --> it can be changed (List, Set, Dictionary)
+IMMUTABLE --> read-only (Tuple, Frozen set)
+
+String --> ""
+List --> []
+Tuple --> ()
+Set --> {} or set()
+Frozen Set --> frozenset()
+Dictionary --> {key1:value1,key2:value2}
+
+Day - 9
+-------
+
+File system management
+
+ - Open
+ - Read
+ - Write
+ - Append
+ - Close
+
+absolute path/full path: "C:/User/arockia/Python_Project/server_list.txt"
+relative path: ./server_list.txt
+
+file modes:
+read - r
+write - w
+append - a
+
+open("c:/users/input.txt",a)
+
+stream of bytes
+
+multiline comments:
+
+'''
+dfdf
+dfs
+wfe
+fwe
+'''
+
+"""
+df
+df
+detwet
+"""
+
